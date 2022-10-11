@@ -1,3 +1,37 @@
-.pagina1{
-	display: inline-block;
+main p{
+	background: chocolate;
+}
+
+main h1{
+	background: gold;
+}
+#logo{
+	width: 20%;
+	opacity: 1.2;
+	box-shadow: 10px 10px 5px burlywood;
+}
+
+.principal{
+	width: 60%;
+	opacity:1.2;
+	box-shadow: 10px 10px 5px burlywood;
+}
+
+main p{
+	background: chocolate;
+}
+
+main h1{
+	background: gold;
+}
+#logo2{
+	width: 20%;
+	opacity: 1.2;
+	box-shadow: 10px 10px 5px burlywood;
+}
+
+.principal1{
+	width: 60%;
+	opacity:1.2;
+	box-shadow: 10px 10px 5px burlywood;
 }
