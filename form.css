@@ -1,0 +1,56 @@
+form{
+	margin: 40px 0;
+}
+
+form label{
+	display: block;
+	font-size: 30px;
+	margin: 0 0 10px;
+}
+
+.input-padrao{
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
+	background: #AFEEEE;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.enviar{
+	width: 40%;
+	padding: 15px 0;
+	background: #87CEFA;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	border: none;
+	border-radius: 10px;
+	transition: 5s all;
+	cursor: pointer;
+}
+
+.enviar:hover{
+	background: #00F5FF;
+	transform: scale(1.5);
+}
+
+.enviar3{
+	background: #FFD700;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	border: none;
+	border-radius: 10px;
+	transition: 5s all;
+	cursor: pointer;
+	width: 40%;
+	padding: 15px 0;
+}
+
+.enviar3:hover{
+	background: #1E90FF;
+	transform: scale(1.5);
+	transform: rotate(1000deg);
+}
