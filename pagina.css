@@ -1,0 +1,59 @@
+body p{
+	font-size: 20px;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#cabecalho{
+	height: 150px;
+	width: 872px;
+	background: pink;
+	margin: 0 auto;
+	margin-left: 5px;
+	margin-top: 5px;
+	border: solid;
+}
+
+#menu{
+	height: 250px;
+	width: 250px;
+	background: #836FFF;
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+	border: solid;
+}
+
+#principal{
+	height: 250px;
+	width: 350px;
+	background: #87CEEB;
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+	border: solid;
+}
+
+#lado{
+	height: 250px;
+	width: 250px;
+	background: #00FA9A;
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+	border: solid;
+}
+
+#rodape{
+	height: 150px;
+	width: 872px;
+	background: #FA8072;
+	clear: both;
+	margin: 0 auto;
+	margin-left: 5px;
+	margin-top: 5px;
+	border: solid;
+}
